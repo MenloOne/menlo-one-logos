@@ -35,8 +35,8 @@ A bunch of logos and graphics for [Menlo One](https://menlo.one).
 
 ## Vector Logos
 
-![Menlo One Vector Logo 90x90](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-blue-logo-transparent90x90.svg?raw=true)
+![Menlo One Vector Logo 90x90](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-blue-logo-transparent90x90.svg?sanitize=true)
 
-[Menlo One Vector Logo](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo.svg)
+[Menlo One Vector Logo](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo.svg?sanitize=true)
 
-[Menlo One Vector Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-type.svg)
+[Menlo One Vector Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-type.svg?sanitize=true)
