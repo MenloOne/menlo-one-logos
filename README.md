@@ -33,10 +33,9 @@ A bunch of logos and graphics for [Menlo One](https://menlo.one).
 [Menlo One Vector Graphics](https://github.com/MenloOne/menlo-one-logos/tree/master/illustrations)
 
 
-![Menlo Wallet](https://www.menlo.one/images/smart-wallet.svg)
-
-
 ## Vector Logos
+
+![Menlo One Vector Logo 90x90](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-blue-logo-transparent90x90.svg?raw=true)
 
 [Menlo One Vector Logo](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo.svg)
 
