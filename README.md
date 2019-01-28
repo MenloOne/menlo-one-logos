@@ -48,6 +48,6 @@ A bunch of logos and graphics for [Menlo One](https://menlo.one).
 
 [Menlo One Vector Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-type.svg)
 
-![Menlo One Vector Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo-and-type.svg?sanitize=true)
+![Menlo One Vector Logo and Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo-and-type.svg?sanitize=true)
 
-[Menlo One Vector Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo-and-type.svg)
+[Menlo One Vector Logo and Type](https://github.com/MenloOne/menlo-one-logos/blob/master/menlo-one-logo-and-type.svg)
